@@ -312,7 +312,7 @@ button[type="submit"] {
     background-color: #f4c709;
     color: #403e3f;
     cursor: pointer;
-    transition: transform 0.3s;
+    transition: transform 0.15s;
 }
 
 .button-enabled:hover {
