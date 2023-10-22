@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="brightest-images/favicon.ico" type="image/x-icon">
+    <script src="https://kit.fontawesome.com/6e655cc5c9.js" crossorigin="anonymous"></script>
+    <title>Brightest - Curriculum Vitae</title>
+    <style>
+    </style>
+</head>
+<body>
+    <div class="big-screen-container">
+        <header>
+            <header-left>
+                <div class="title"><a href="index.html">Curriculum Vitae</a></div>
+            </header-left>
+            <header-right>
+                <nav>
+                    <ul>
+                        <li>
+                            <a href="index.html" id="nav-about">Over</a>
+                        </li>
+                        <li class="active">
+                            <a href="projects.html" id="nav-projects">Projecten</a>
+                        </li>
+                        <li>
+                            <a href="contact.html" id="nav-contact">Contact</a>
+                        </li>
+                    </ul>
+                </nav>
+                <download-button>
+                    <a href="brightest-files/CV_nl.pdf" class="header-download-link" download target="_blank">
+                        <span class="download-icon"><i class="fa-solid fa-download"></i></span>
+                        <span id="download-text">Download mijn CV</span>
+                    </a>
+                </download-button>
+                <div class="languages">
+                    <a href="#">
+                        <span id="nav-languages">Talen</span><span> </span><i class="fa-solid fa-chevron-down"></i>
+                    </a>
+                    <ul class="dropdown-options">
+                        <li class="language-button" id="nl-button">
+                            <a href="#">Nederlands</a>
+                        </li>
+                        <li class="language-button" id="fr-button">
+                            <a href="#">Français</a>
+                        </li>
+                        <li class="language-button" id="en-button">
+                            <a href="#">English</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="hamburger-menu">
+                    <div class="menu-icon">
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                    </div>
+                </div>
+            </header-right>
+        </header>
+    </div>
+    <div class="mobile-navigation">
+        <ul>
+            <li>
+                <a href="index.html" id="mobile-nav-about">Over</a>
+            </li>
+            <li>
+                <a href="projects.html" id ="mobile-nav-projects">Projecten</a>
+            </li>
+            <li>
+                <a href="contact.html" id="mobile-nav-contacts">Contact</a>
+            </li>
+            <li>
+                <a href="brightest-files/CV_nl.pdf" download target="_blank" id="mobile-download-link">
+                    <span class="download-icon"><i class="fa-solid fa-download"></i></span>
+                    <span id="mobile-download-text">Download mijn CV</span>
+                </a>
+            </li>
+            <li class="submenu">
+                <ul class="mobile-languages">
+                    <li class="language-button" id="mobile-nl-button">
+                        <img src="brightest-images/nl-flag.png" alt="Dutch" class="language-image" width="40">
+                    </li>
+                    <li class="language-button" id="mobile-fr-button">
+                        <img src="brightest-images/fr-flag.png" alt="French" class="language-image" width="40">
+                    </li>
+                    <li class="language-button" id="mobile-en-button">
+                        <img src="brightest-images/en-flag.png" alt="English" class="language-image" width="40">
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+    <main>
+        <div class="projects-content">
+            <p id="projects-img"><img src="brightest-images/projects_nl.jpg" alt="projects" class="projects-image"></p>
+        </div>
+    </main>
+    <footer>
+        <div class="footer-border">
+            <div class="footer-logo">
+                <img src="brightest-images/logo.png" alt="Logo" class="logo">
+            </div>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

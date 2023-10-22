@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+  <language code="nl">
+    <text id="about-me">Over Mij</text>
+    <text id="dynamic-content">
+      <p>
+        <strong>Goeiedag!</strong> Ik ben Bart Schram, een beginnende Quality Assurance Consultant met een groeiende passie voor het verbeteren van software via testing. Ik heb een goede basis in HTML, CSS, JavaScript, XML en SQL, en ik kijk ernaar uit om mijn kennis verder te ontwikkelen.
+      </p>
+      <p>
+        <strong>Ontdek mijn projecten:</strong> Op deze website kun je <a href="projects.html" class="content-link">mijn projecten</a> bekijken en meer te weten komen over mijn achtergrond als QA-consultant.
+      </p>
+      <p>
+        <strong>Download mijn CV:</strong> Voor een gedetailleerder overzicht van mijn ervaring en vaardigheden kun je mijn CV <a href="brightest-files/CV_nl.pdf" class="content-link" download="CV_nl.pdf" target="_blank">downloaden</a>.
+      </p>
+      <p>
+        <strong>Contacteer me:</strong> Aarzel niet om me te <a href="contact.html" class="content-link">contacteren</a> voor vragen of om mijn expertise in te zetten voor jouw project. Ik kijk ernaar uit om van je te horen.
+      </p>
+    </text>
+    <text id="download-text">Download mijn CV</text>
+    <text id="nav-about">Over</text>
+    <text id="nav-projects">Projecten</text>
+    <text id="nav-contact">Contact</text>
+    <text id="mobile-download-text">Download mijn CV</text>
+    <text id="mobile-nav-about">Over</text>
+    <text id="mobile-nav-projects">Projecten</text>
+    <text id="mobile-nav-contact">Contact</text>
+    <text id="nav-languages">Talen</text>
+    <text id="college-title">Hogeschool Opleidingen</text>
+    <text id="courses-title">Cursussen</text>
+    <text id="bachelor-degree">Bachelor diploma, Marketing<br />(Specialisatie: Online Marketing)</text>
+    <text id="multimedia-technology">Multimedia en Communicatietechnologie</text>
+    <text id="sql-fundamentals">
+      <strong>SQL Fundamentals</strong><br />
+      <i>Syntra<br />
+      2023</i>
+    </text>
+    <text id="seo-training">
+      <strong>SEO training</strong><br />
+      <i>Mark@ing<br />
+      2020</i>
+    </text>
+    <text id="product-photography">
+      <strong>Product- en Studiofotografie</strong><br />
+      <i>Centrum voor Avondonderwijs<br />
+      2019</i>
+    </text>
+    <text id="hobbies-part1">
+      <p>
+        <strong>Natuur:</strong> Ik geniet graag van een rustige wandeling door een park of natuurreservaat, maar ook een fysiek en technisch zwaardere tocht ga ik niet uit de weg. Onlangs heb ik een uitdagende huttentocht gemaakt tussen de reuzen van de Dolomieten. Het fenomenale uitzicht was me elke zweetdruppel waard.
+      </p>
+    </text>
+    <text id="hobbies-part2">
+      <p>
+        <strong>Gezondheid en Conditie:</strong> De opening van een nieuwe fitness recht tegenover mijn deur zorgt ervoor dat mijn goede voornemens niet kunnen wachten tot Nieuwjaar. Ik kijk ernaar uit om weer extra aandacht te besteden aan een gezonde levensstijl.
+      </p>
+      <p>
+        <strong>Wintersport:</strong> Hoewel het even geleden is, koester ik mijn liefde voor skiën. De bergen in de winter geven me dat onbetaalbare gevoel van vrijheid.
+      </p>
+      <p>
+        <strong>Ontspanning en Plezier:</strong> 's Avonds kom ik tot rust bij een serie of film op TV, of speel ik samen met mijn vriendin een spel op de Playstation of Switch.
+      </p>
+      <p>
+        <strong>Muziekfestivals:</strong> In de zomer ben ik vaak te vinden op muziekfestivals. Hoewel ik open sta voor alle genres, heb ik vooral een passie voor metal en punk. De energie en sfeer op deze festivals zijn onovertreffelijk.
+      </p>
+      <p>Wil je meer te weten komen? Voel je vrij om me te <a href="contact.html" class="content-link">contacteren</a> als je interesse hebt in een gesprek! 🚀</p>
+    </text>
+    <text id="arrow-text">
+      <p>
+        Hobby's
+      </p>
+    </text>
+    <text id="projects-img">
+      <p>
+        <image src="brightest-images/projects_nl.jpg" alt="Projects"/>
+      </p>
+    </text>
+    <text id="name">
+      <p>Jouw naam:</p>
+    </text>
+    <text id="email">
+      <p>Jouw e-mailadres:</p>
+    </text>
+    <text id="message">
+      <p>Jouw bericht:</p>
+    </text>
+    <text id="send">
+      <p>Verstuur</p>
+    </text>
+  </language>
+  <language code="fr">
+    <text id="about-me">À propos de moi</text>
+    <text id="dynamic-content">
+      <p>
+        <strong>Bonjour!</strong> Je suis Bart Schram, un consultant en assurance qualité débutant avec une passion croissante pour l'amélioration des logiciels par le biais des tests. J'ai une solide base en HTML, CSS, JavaScript, XML et SQL, et j'ai hâte de développer davantage mes connaissances.
+      </p>
+      <p>
+        <strong>Découvrez mes projets:</strong> Sur ce site web, vous pouvez consulter <a href="projects.html" class="content-link">mes projets</a> et en apprendre davantage sur mon parcours en tant que consultant en assurance qualité.
+      </p>
+      <p>
+        <strong>Téléchargez mon CV:</strong> Pour obtenir une vue plus détaillée de mon expérience et de mes compétences, vous pouvez <a href="brightest-files/CV_fr.pdf" class="content-link" download="CV_fr.pdf" target="_blank">télécharger</a> mon CV.
+      </p>
+      <p>
+        <strong>Contactez-moi:</strong> N'hésitez pas à me <a href="contact.html" class="content-link">contacter</a> pour toute question ou pour mettre en œuvre mon expertise dans le cadre de votre projet. J'ai hâte d'avoir de vos nouvelles.
+      </p>
+    </text>
+    <text id="download-text">Télécharger mon CV</text>
+    <text id="nav-about">À propos</text>
+    <text id="nav-projects">Projets</text>
+    <text id="nav-contact">Contact</text>
+    <text id="mobile-download-text">Télécharger mon CV</text>
+    <text id="mobile-nav-about">À propos</text>
+    <text id="mobile-nav-projects">Projets</text>
+    <text id="mobile-nav-contact">Contact</text>
+    <text id="nav-languages">Langues</text>
+    <text id="college-title">Études Supérieures</text>
+    <text id="courses-title">Cours</text>
+    <text id="bachelor-degree">Diplôme de Bachelor, Marketing<br />(Spécialisation: Marketing en ligne)</text>
+    <text id="multimedia-technology">Multimédia et technologie de la communication</text>
+    <text id="sql-fundamentals">
+      <strong>Fondamentaux SQL</strong><br />
+      <i>Syntra<br />
+      2023</i>
+    </text>
+    <text id="seo-training">
+      <strong>Formation en référencement (SEO)</strong><br />
+      <i>Mark@ing<br />
+      2020</i>
+    </text>
+    <text id="product-photography">
+      <strong>Photographie de produits et de studio</strong><br />
+      <i>Centrum voor Avondonderwijs<br />
+      2019</i>
+    </text>
+    <text id="hobbies-part1">
+      <p>
+        <strong>Nature:</strong> J'apprécie une promenade tranquille dans un parc ou une réserve naturelle, mais je n'hésite pas à me lancer dans des randonnées plus physiques et techniques. Récemment, j'ai entrepris un trek exigeant parmi les géants des Dolomites. La vue phénoménale en valait chaque goutte de sueur.
+      </p>
+    </text>
+    <text id="hobbies-part2">
+      <p>
+        <strong>Santé et Forme:</strong> L'ouverture d'une nouvelle salle de sport juste en face de chez moi fait que mes bonnes résolutions ne peuvent pas attendre le Nouvel An. J'ai hâte de me recentrer sur un mode de vie sain.
+      </p>
+      <p>
+        <strong>Sports d'Hiver:</strong> Même si cela remonte à un certain temps, je chéris mon amour pour le ski. Les montagnes en hiver me procurent cette sensation de liberté inestimable.
+      </p>
+      <p>
+        <strong>Détente et Plaisir:</strong> Le soir, je me détends en regardant une série ou un film à la télévision, ou en jouant à des jeux sur Playstation ou Switch avec ma petite amie.
+      </p>
+      <p>
+        <strong>Festivals de Musique:</strong> Pendant l'été, on me trouve souvent lors de festivals de musique. Même si je suis ouvert à tous les genres, j'ai une passion particulière pour le metal et le punk. L'énergie et l'ambiance de ces festivals sont inégalables.
+      </p>
+      <p>Vous souhaitez en savoir plus ? N'hésitez pas à me <a href="contact.html" class="content-link">contacter</a> si vous avez envie de discuter ! 🚀</p>
+    </text>
+    <text id="arrow-text">
+      <p>
+        Loisirs
+      </p>
+    </text>
+    <text id="projects-img">
+      <p>
+        <image src="brightest-images/projects_fr.jpg" alt="Projects"/>
+      </p>
+    </text>
+    <text id="name">
+      <p>Votre nom:</p>
+    </text>
+    <text id="email">
+      <p>Votre adresse e-mail:</p>
+    </text>
+    <text id="message">
+      <p>Votre message:</p>
+    </text>
+    <text id="send">
+      <p>Envoyer</p>
+    </text>
+  </language>
+  <language code="en">
+    <text id="about-me">About Me</text>
+    <text id="dynamic-content">
+      <p>
+        <strong>Hello!</strong> I'm Bart Schram, a novice Quality Assurance Consultant with a growing passion for enhancing software through testing. I have a strong foundation in HTML, CSS, JavaScript, XML, and SQL, and I look forward to further expanding my knowledge.
+      </p>
+      <p>
+        <strong>Explore my projects:</strong> On this website, you can check out <a href="projects.html" class="content-link">my projects</a> and learn more about my background as a QA consultant.
+      </p>
+      <p>
+        <strong>Download my CV:</strong> For a more detailed overview of my experience and skills, you can <a href="brightest-files/CV_en.pdf" class="content-link" download="CV_en.pdf" target="_blank">download</a> my CV.
+      </p>
+      <p>
+        <strong>Contact me:</strong> Feel free to <a href="contact.html" class="content-link">contact</a> me with any questions or to harness my expertise for your project. I look forward to hearing from you.
+      </p>
+    </text>
+    <text id="download-text">Download my CV</text>
+    <text id="nav-about">About</text>
+    <text id="nav-projects">Projects</text>
+    <text id="nav-contact">Contact</text>
+    <text id="mobile-download-text">Download my CV</text>
+    <text id="mobile-nav-about">About</text>
+    <text id="mobile-nav-projects">Projects</text>
+    <text id="mobile-nav-contact">Contact</text>
+    <text id="nav-languages">Languages</text>
+    <text id="college-title">Higher Education</text>
+    <text id="courses-title">Courses</text>
+    <text id="bachelor-degree">Bachelor's Degree, Marketing<br />(Specialization: Online Marketing)</text>
+    <text id="multimedia-technology">Multimedia and Communication Technology</text>
+    <text id="sql-fundamentals">
+      <strong>SQL Fundamentals</strong><br />
+      <i>Syntra<br />
+      2023</i>
+    </text>
+    <text id="seo-training">
+      <strong>SEO Training</strong><br />
+      <i>Mark@ing<br />
+      2020</i>
+    </text>
+    <text id="product-photography">
+      <strong>Product and Studio Photography</strong><br />
+      <i>Centrum voor Avondonderwijs<br />
+      2019</i>
+    </text>
+    <text id="hobbies-part1">
+      <p>
+        <strong>Nature:</strong> I enjoy a peaceful walk in a park or nature reserve, but I'm also not one to shy away from more physically and technically challenging hikes. Recently, I embarked on a demanding hut-to-hut trek among the giants of the Dolomites. The phenomenal view was worth every drop of sweat.
+      </p>
+    </text>
+    <text id="hobbies-part2">
+      <p>
+        <strong>Health and Fitness:</strong> The opening of a new fitness center right across the street from my place ensures that my New Year's resolutions can't wait. I look forward to refocusing on a healthy lifestyle.
+      </p>
+      <p>
+        <strong>Winter Sports:</strong> While it's been a while, I cherish my love for skiing. The mountains in winter provide me with that priceless feeling of freedom.
+      </p>
+      <p>
+        <strong>Relaxation and Fun:</strong> In the evening, I unwind by watching a TV series or movie, or by playing games on the Playstation or Switch with my girlfriend.
+      </p>
+      <p>
+        <strong>Music Festivals:</strong> During the summer, you can often find me at music festivals. While I'm open to all genres, I have a special passion for metal and punk. The energy and atmosphere at these festivals are unmatched.
+      </p>
+      <p>Want to know more? Feel free to <a href="contact.html" class="content-link">reach out</a> if you'd like to have a chat! 🚀</p>
+    </text>
+    <text id="arrow-text">
+      <p>
+        Hobbies
+      </p>
+    </text>
+    <text id="projects-img">
+      <p>
+        <image src="brightest-images/projects_en.jpg" alt="Projects"/>
+      </p>
+    </text>
+    <text id="name">
+      <p>Your name:</p>
+    </text>
+    <text id="email">
+      <p>Your email address:</p>
+    </text>
+    <text id="message">
+      <p>Your message:</p>
+    </text>
+    <text id="send">
+      <p>Send</p>
+    </text>
+  </language>
+</translations>

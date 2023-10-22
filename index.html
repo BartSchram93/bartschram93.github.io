@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="brightest-images/favicon.ico" type="image/x-icon">
+    <script src="https://kit.fontawesome.com/6e655cc5c9.js" crossorigin="anonymous"></script>
+    <title>Brightest - Curriculum Vitae</title>
+    <style>
+    </style>
+</head>
+<body>
+    <div class="big-screen-container">
+        <header>
+            <header-left>
+                <div class="title">
+                    <a href="index.html">Curriculum Vitae</a>
+                </div>
+            </header-left>
+            <header-right>
+                <nav>
+                    <ul>
+                        <li class="active">
+                            <a href="index.html" id="nav-about">Over</a>
+                        </li>
+                        <li>
+                            <a href="projects.html" id="nav-projects">Projecten</a>
+                        </li>
+                        <li>
+                            <a href="contact.html" id="nav-contact">Contact</a>
+                        </li>
+                    </ul>
+                </nav>
+                <download-button>
+                    <a href="brightest-files/CV_nl.pdf" class="header-download-link" download target="_blank">
+                        <span class="download-icon"><i class="fa-solid fa-download"></i></span>
+                        <span id="download-text">Download mijn CV</span>
+                    </a>
+                </download-button>
+                <div class="languages">
+                    <a href="#">
+                        <span id="nav-languages">Talen</span><span> </span><i class="fa-solid fa-chevron-down"></i>
+                    </a>
+                    <ul class="dropdown-options">
+                        <li class="language-button" id="nl-button">
+                            <a href="#">Nederlands</a>
+                        </li>
+                        <li class="language-button" id="fr-button">
+                            <a href="#">Français</a>
+                        </li>
+                        <li class="language-button" id="en-button">
+                            <a href="#">English</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="hamburger-menu">
+                    <div class="menu-icon">
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                    </div>
+                </div>
+            </header-right>
+        </header>
+    </div>
+    <div class="mobile-navigation">
+        <ul>
+            <li>
+                <a href="index.html" id="mobile-nav-about">Over</a>
+            </li>
+            <li>
+                <a href="projects.html" id="mobile-nav-projects">Projecten</a>
+            </li>
+            <li>
+                <a href="contact.html" id="mobile-nav-contacts">Contact</a>
+            </li>
+            <li>
+                <a href="brightest-files/CV_nl.pdf" download target="_blank" id="mobile-download-link">
+                    <span class="download-icon"><i class="fa-solid fa-download"></i></span>
+                    <span id="mobile-download-text">Download mijn CV</span>
+                </a>
+            </li>
+            <li class="submenu">
+                <ul class="mobile-languages">
+                    <li class="language-button" id="mobile-nl-button">
+                        <img src="brightest-images/nl-flag.png" alt="Dutch" class="language-image" width="40">
+                    </li>
+                    <li class="language-button" id="mobile-fr-button">
+                        <img src="brightest-images/fr-flag.png" alt="French" class="language-image" width="40">
+                    </li>
+                    <li class="language-button" id="mobile-en-button">
+                        <img src="brightest-images/en-flag.png" alt="English" class="language-image" width="40">
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+    <main>
+        <div class="segment-1">
+            <h2 id="about-me">Over Mij</h2>
+            <div id="dynamic-content">
+                <p>
+                    <strong>Goeiedag!</strong> Ik ben Bart Schram, een beginnende Quality Assurance Consultant met een groeiende passie voor het verbeteren van software via testing. Ik heb een goede basis in HTML, CSS, JavaScript, XML en SQL, en ik kijk ernaar uit om mijn kennis verder te ontwikkelen.
+                </p>
+                <p>
+                    <strong>Ontdek mijn projecten:</strong> Op deze website kun je <a href="projects.html" class="content-link">mijn projecten</a> bekijken en meer te weten komen over mijn achtergrond als QA-consultant.
+                </p>
+                <p>
+                    <strong>Download mijn CV:</strong> Voor een gedetailleerder overzicht van mijn ervaring en vaardigheden kun je mijn CV <a href="brightest-files/CV_nl.pdf" class="content-link" download="CV_nl.pdf" target="_blank">
+                        downloaden</a>.
+                </p>
+                <p>
+                    <strong>Contacteer me:</strong> Aarzel niet om me te <a href="contact.html" class=" content-link">contacteren</a> voor vragen of om mijn expertise in te zetten voor jouw project. Ik kijk ernaar uit om van je te horen.
+                </p>
+            </div>
+            <div id="hobbies" style="display: none;">
+                <div id="hobbies-part1">
+                    <p>
+                        <strong>Natuur:</strong> Ik geniet graag van een rustige wandeling door een park of natuurreservaat, maar ook een fysiek en technisch zwaardere tocht ga ik niet uit de weg. Onlangs heb ik een uitdagende huttentocht gemaakt tussen de reuzen van de Dolomieten. Het fenomenale uitzicht was me elke zweetdruppel waard.
+                    </p>
+                </div>
+                <p>
+                    <img src="brightest-images/dolomites.jpg" alt="Dolomites">
+                </p>
+                <div id="hobbies-part2">
+                    <p>
+                        <strong>Gezondheid en Conditie:</strong> De opening van een nieuwe fitness recht tegenover mijn deur zorgt ervoor dat mijn goede voornemens niet kunnen wachten tot Nieuwjaar. Ik kijk ernaar uit om weer extra aandacht te besteden aan een gezonde levensstijl.
+                    </p>
+                    <p>
+                        <strong>Wintersport:</strong> Hoewel het even geleden is, koester ik mijn liefde voor skiën. De bergen in de winter geven me dat onbetaalbare gevoel van vrijheid.
+                    </p>
+                    <p>
+                        <strong>Ontspanning en Plezier:</strong> 's Avonds kom ik tot rust bij een serie of film op TV, of speel ik samen met mijn vriendin een spel op de Playstation of Switch.
+                    </p>
+                    <p>
+                        <strong>Muziekfestivals:</strong> In de zomer ben ik vaak te vinden op muziekfestivals. Hoewel ik open sta voor alle genres, heb ik vooral een passie voor metal en punk. De energie en sfeer op deze festivals zijn onovertreffelijk.
+                    </p>
+                    <p>
+                        Wil je meer te weten komen? Voel je vrij om me te <a href="contact.html" class="content-link">contacteren</a> als je interesse hebt in een gesprek! 🚀
+                    </p>
+                </div>
+            </div>
+            <div class="toggle-arrow-container">
+                <div class="toggle-arrow" onclick="toggleText()">
+                    <div class="arrow-icon"><i class="fa-solid fa-chevron-right"></i></div>
+                    <p id="arrow-text" class="arrow-text">Hobbies</p>
+                </div>
+            </div>
+        </div>
+        <div class="segment-2">
+            <h2 id="college-title">Hogeschool Opleidingen</h2>
+            <ul>
+                <li>
+                    <strong id="bachelor-degree">Bachelor diploma, Marketing<br>
+                        (Specialisatie: Online Marketing)</strong><br>
+                    <i>Karel de Grote Hogeschool<br>
+                        2013-2017</i>
+                </li>
+                <li>
+                    <strong id="multimedia-technology">Multimedia en Communicatietechnologie</strong><br>
+                    <i>Karel de Grote Hogeschool<br>
+                        2011-2013</i>
+                </li>
+            </ul>
+            <h2 id="courses-title">Cursussen</h2>
+            <ul>
+                <li id="sql-fundamentals"><strong>SQL Fundamentals</strong><br>
+                    <i>Syntra<br>
+                        2023</i>
+                </li>
+                <li id="seo-training"><strong>SEO training</strong><br>
+                    <i>Mark@ing<br>
+                        2020</i>
+                </li>
+                <li id="product-photography"><strong>Product- en Studiofotografie</strong><br>
+                    <i>Centrum voor Avondonderwijs<br>
+                        2019</i>
+                </li>
+            </ul>
+        </div>
+    </main>
+    <footer>
+        <div class="footer-border">
+            <div class="footer-logo">
+                <img src="brightest-images/logo.png" alt="Logo" class="logo">
+            </div>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
